@@ -1,0 +1,4 @@
+I am in read mode now
+This is statement1
+This is statement2
+This is statement3
